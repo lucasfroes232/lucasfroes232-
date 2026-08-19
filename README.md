@@ -1,3 +1,5 @@
+🇧🇷 Português | 🇺🇸 English
+
 ### Lucas Froes Belinassi
 **Eng. de Computação | Robótica, Machine Learning & IA Aplicada**
 
